@@ -1,4 +1,4 @@
-### Hi I'm Pedro! :) 🌱
+### Hi I'm Pedro Craveiro! :) 🌱
 
 <div align="center"> <!-- Imagens -->
   <a href="https://github.com/pecraveiro">
