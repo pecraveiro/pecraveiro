@@ -1,4 +1,3 @@
-### Hi I'm Pedro Craveiro! :) 🌱
 
 <div align="center" style="display: inline_block">
 <img align="center" alt="CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
