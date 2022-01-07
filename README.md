@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-<img align="center" alt="Linguagem-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
+<img align="justify-center" alt="CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
 </div>  
  
 ![Snake animation](https://github.com/pecraveiro/pecraveiro/blob/output/github-contribution-grid-snake.svg)
