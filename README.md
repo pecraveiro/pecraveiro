@@ -11,6 +11,7 @@
 <img align="center" alt="HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="C++" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="center" alt="Solidity" height="30" width="40" <img src="https://commons.wikimedia.org/wiki/File:Solidity_logo.svg"/>
 <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 
 </div>  
