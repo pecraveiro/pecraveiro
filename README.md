@@ -7,9 +7,9 @@
 <img align="center" alt="Solidity" height="30" width="40" <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"/>
 <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="center" alt="Canva" height="30" width="40" <img src="https://user-images.githubusercontent.com/79882049/157819801-b25d23a9-2589-4260-a671-aa3bf7065845.svg"/>
+<img align="center" alt="Canva" height="30" width="40" <img src="https://user-images.githubusercontent.com/79882049/157820469-f1618314-cf29-4436-b6a2-1513a72957d0.png>
 
-<!-- (Upload) ![Nuvemshop - Crie sua loja virtual-1](https://user-images.githubusercontent.com/79882049/157819801-b25d23a9-2589-4260-a671-aa3bf7065845.svg) -->
+<!-- (Upload) ![nuvem-shop](https://user-images.githubusercontent.com/79882049/157820469-f1618314-cf29-4436-b6a2-1513a72957d0.png) -->
 
   
 </div><br><br>  
