@@ -7,7 +7,7 @@
 <img align="center" alt="Solidity" height="30" width="40" <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"/>
 <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="center" alt="Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="center" alt="Nuvem Shop" height="60" width="60" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
+<img align="center" alt="Nuvem Shop" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
 
 <!-- (Upload) ![nuvem-shop](https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg) -->
 
