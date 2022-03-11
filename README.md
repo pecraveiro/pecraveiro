@@ -6,9 +6,8 @@
 <img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="center" alt="Solidity" height="30" width="40" <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"/>
 <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-<img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="center" alt="Canva" height="30" width="40" <img src="https://user-images.githubusercontent.com/79882049/157820469-f1618314-cf29-4436-b6a2-1513a72957d0.png"/>
-<img align="center" alt="Canva" height="30" width="40" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
+<img align="center" alt="Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="center" alt="Nuvem Shop" height="60" width="60" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
 
 <!-- (Upload) ![nuvem-shop](https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg) -->
 
