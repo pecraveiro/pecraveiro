@@ -6,6 +6,8 @@
 <img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="center" alt="Solidity" height="30" width="40" <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"/>
 <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  
 </div><br><br>  
 
 <div align="center"> <!-- Imagens -->
