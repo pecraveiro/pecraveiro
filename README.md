@@ -18,7 +18,7 @@
   <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
   <img align="center" alt="Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Nuvem Shop" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
-</div><br>
+</div>
 
 <div align="center">
   <h1>Plataformas Familiares</h1>
