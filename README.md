@@ -3,7 +3,7 @@
   <p justify="center">Hi, I'm Pedro, welcome to my Linkedin profile. Campo-grandense, 21 years old, student of the second period of Computer Engineering at the Federal University of Santa Catarina. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.
 
 Currently I work in a Junior Enterprise of Computer Engineering at my University, called "EJEC", where I am intern in the Market area managing the sector and performing tasks such as: development of projects in web systems, designs for posts on the company's social networks and direct contact with the client, holding meetings. In addition to participating weekly in general meetings with all sectors of the company and coordinating the market sector meeting.<p>
-</div><br>
+</div>
 
 <div align="center">
   <h1>Currenty Skills</h1>
