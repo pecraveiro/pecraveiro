@@ -36,10 +36,10 @@
 
 <div>
   <li>English Certificate - C1 Advanced <a href="https://www.efset.org/cert/doJJvF">- EF SET</a></li>
-  <li><a href="https://drive.google.com/file/u/1/d/1XHFaDgu2Fahx3tl7L2GXDyN4iHsep7mt/view">Certiificado</a>do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</li>
+  <li><a href="https://drive.google.com/file/u/1/d/1XHFaDgu2Fahx3tl7L2GXDyN4iHsep7mt/view">Certiificado </a>do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</li>
   </div>
   
-</div>
+</div><br>
 
 
 <div align="center"> <!-- Imagens -->
