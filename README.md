@@ -18,7 +18,7 @@
 </div>
 
 <div align="center" style="display: inline_block">
-<img align="center" alt="Slack" height="80" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
+<img align="center" alt="Slack" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
 
           
 <div align="center"> <!-- Imagens -->
