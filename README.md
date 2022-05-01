@@ -22,7 +22,7 @@
 <img align="center" alt="Slack" height="70" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
 <img align="center" alt="Trello" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
 <img align="center" alt="Discord" height="30" width="30" <img src="https://user-images.githubusercontent.com/79882049/166131713-03e190f0-2d2d-4111-8f4e-f5f8f99fc07e.svg"/>
-<img align="center" alt="Pipefy" height="60" width="40" <img src="https://user-images.githubusercontent.com/79882049/166131723-e30f0cbc-24cd-4023-9ea6-b81e8add9d35.svg"/>
+<img align="center" alt="Pipefy" height="60" width="60" <img src="https://user-images.githubusercontent.com/79882049/166131723-e30f0cbc-24cd-4023-9ea6-b81e8add9d35.svg"/>
 </div><br>
 
 <div align="center"> <!-- Imagens -->
