@@ -18,9 +18,8 @@
 </div>
 
 <div align="center" style="display: inline_block">
-<img align="center" alt="Slack" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
-
-          
+<img align="center" alt="Slack" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+                   
 <div align="center"> <!-- Imagens -->
   <a href="https://github.com/pecraveiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pecraveiro&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
