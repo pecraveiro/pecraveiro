@@ -29,7 +29,7 @@
   <img align="center" alt="Slack" height="80" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
   <img align="center" alt="Trello" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
   <img align="center" alt="Pipefy" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/166131867-151e8407-a626-4900-a5ea-2f020e9a3a36.svg"/>
-</div><br>
+</div>
 
 <div>
   <h1 align="center">Certifications</h1>
