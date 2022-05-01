@@ -37,8 +37,8 @@
 
 <div>
   <li>
-    <p><a href="https://www.efset.org/cert/doJJvF">English Certificate - C1 Advanced - EF SET</a></p>
-    <p><a href="https://ejec.ufsc.br/">Certiificado do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</a></p>
+    <a href="https://www.efset.org/cert/doJJvF">English Certificate - C1 Advanced - EF SET</a>
+    <a href="https://ejec.ufsc.br/">Certiificado do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</a>
   </li>
   
 </div>
