@@ -31,8 +31,8 @@
   <img align="center" alt="Pipefy" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/166131867-151e8407-a626-4900-a5ea-2f020e9a3a36.svg"/>
 </div><br>
 
-<div align="center">
-  <h1>Certifications</h1>
+<div>
+  <h1 align="center">Certifications</h1>
 
 <div>
   <li>English Certificate - C1 Advanced <a href="https://www.efset.org/cert/doJJvF">- EF SET</a></li>
