@@ -36,7 +36,7 @@
   <div>
     <li>English <a href="https://www.efset.org/cert/doJJvF">Certificate</a> - C1 Advanced - EF SET</li>
     <li><a href="https://drive.google.com/file/u/1/d/1XHFaDgu2Fahx3tl7L2GXDyN4iHsep7mt/view">Certificado </a>do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</li>
-    <li><a href="https://hermes.digitalinnovation.one/certificates/DAB87E89.pdf">Certificado</a> do Curso de Lei Geral de Proteção de Dados | Primeiras Noções</li>
+    <li><a href="https://hermes.digitalinnovation.one/certificates/DAB87E89.pdf">Certificado</a> do Curso de Lei Geral de Proteção de Dados | Primeiras Noções - Digital Innovation One</li>
   </div>
 </div><br> 
 
