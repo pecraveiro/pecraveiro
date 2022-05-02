@@ -41,7 +41,7 @@
 </div><br> 
 
 <div align="center">
-  <h1>Github Stats | Status no Github 📈</h1>
+  <h1>Github Stats | Estatísticas no Github 📈</h1>
   
 <div align="center"> <!-- Imagens -->
   <a href="https://github.com/pecraveiro">
