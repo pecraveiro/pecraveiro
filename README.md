@@ -52,5 +52,6 @@
 
 <div align="center">
   <h1> Snake Animation | Cobrinha e commits 🐍</h1></div>
+  
 ![Snake animation](https://github.com/pecraveiro/pecraveiro/blob/output/github-contribution-grid-snake.svg)
 
