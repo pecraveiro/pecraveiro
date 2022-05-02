@@ -32,7 +32,7 @@
 </div>
 
 <div>
-  <h1 align="center">Certifications | Certificados</h1>
+  <h1 align="center">Certifications | Certificados 📜</h1>
   <div>
     <li>English <a href="https://www.efset.org/cert/doJJvF">Certificate</a> - C1 Advanced - EF SET</li>
     <li><a href="https://drive.google.com/file/u/1/d/1XHFaDgu2Fahx3tl7L2GXDyN4iHsep7mt/view">Certificado </a>do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</li>
@@ -41,7 +41,7 @@
 </div><br> 
 
 <div align="center">
-  <h1>Github Stats | Status no Github :octocat:</h1>
+  <h1>Github Stats | Status no Github 📈</h1>
   
 <div align="center"> <!-- Imagens -->
   <a href="https://github.com/pecraveiro">
@@ -51,6 +51,6 @@
 </div>
 
 <div align="center">
-  <h1> Snake Animation | Cobrinha e commits 🐍</h1>
+  <h1> Snake Animation | Cobrinha e commits 🐍</h1></div>
 ![Snake animation](https://github.com/pecraveiro/pecraveiro/blob/output/github-contribution-grid-snake.svg)
-</div>
+
