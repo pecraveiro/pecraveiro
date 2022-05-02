@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <h1> Familiar apps| Plataformas Familiares 🫂</h1>
+  <h1> Familiar apps | Plataformas Familiares 🫂</h1>
 </div>
 
 <div align="center" style="display: inline_block">
