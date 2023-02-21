@@ -19,7 +19,7 @@
   <img align="center" alt="Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Nuvem Shop" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
   <img align="center" alt="Agius Cloud" height="50" width="50" <img src="https://agius.cloud/wp-content/uploads/2018/02/logo_agiuscloud.svg"/>
-  <img align="center" alt="Nicepage" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/220238361-2c1ca089-5570-4e7b-969d-99ee2820ed7a.png"/>
+  <img align="center" alt="Nicepage" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/220238590-5da377fa-3d05-44a1-b7f1-99c121a7c094.png"/>
 </div>
 
 <div align="center">
