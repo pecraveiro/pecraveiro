@@ -1,24 +1,16 @@
 <div>
-  <h1 align="center">About me | Sobre mim 👋</h1>
+  <h1 align="center">About me 👋</h1>
   <p align="justify">Olá, I'm Pedro, welcome to my Github profile. Campo-grandense (:brazil:), 21 years old, student of the third period of Computer Engineering at UCDB. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.</p>
 
 <p align="justify">I worked in a Junior Enterprise of Computer Engineering at my University, called <a href="https://ejec.ufsc.br/">"EJEC"</a>, where I am intern in the Market area managing the sector and performing tasks such as: development of projects in web systems, designs for posts on the company's social networks and direct contact with the client, holding meetings. In addition to participating weekly in general meetings with all sectors of the company and coordinating the market sector meeting.</p>
   
-<p align="justify">As I mentioned, my journey as a developer began three years ago. After working as a volunteer for a Junior Company, I started working as a freelancer, working on small projects for friends and family. However, I quickly realized that I wanted to take it seriously and make it my career.
-
-That's when I landed my first job as a Trainee in a Web Development company. During this period, I learned a lot about how to work in a team and collaborate with other developers to create useful and high-quality solutions for our clients.
-
-Since then, I have worked on various projects, creating Landing Pages, White Pages, Advertorials, and VSL Pages. I learned to work with different programming languages such as HTML, CSS, and JavaScript, and to use the Nicepage platform for website creation. Additionally, I have also honed my skills in UX/UI design and website optimization for search engines.
-
-Thanks to my hard work and dedication, I was promoted to Junior Developer in a short amount of time. I am excited to continue learning and growing in this ever-changing industry. This is my first paid job, and I am very proud to have reached this point.
-
-I am always looking for new challenges and opportunities to expand my knowledge and skills as a developer. I hope to continue making a difference in the world of technology and create solutions that meet the needs of clients and users.
+<p align="justify">As I mentioned, my journey as a developer began three years ago. After working as a volunteer for a Junior Company, I started working as a freelancer, working on small projects for friends and family. However, I quickly realized that I wanted to take it seriously and make it my career. That's when I landed my first job as a Trainee in a Web Development <a href="https://sixcomercio.com.br/">"company"</a>. During this period, I learned a lot about how to work in a team and collaborate with other developers to create useful and high-quality solutions for our clients. Since then, I have worked on <a href="https://github.com/pecraveiro/curriculum-at-SIX-LTDA">"various projects"</a>, creating Landing Pages, White Pages, Advertorials, and VSL Pages. I learned to work with different programming languages such as HTML, CSS, and JavaScript, and to use the Nicepage platform for website creation. Additionally, I have also honed my skills in UX/UI design and website optimization for search engines. Thanks to my hard work and dedication, I was promoted to Junior Developer in a short amount of time. I am excited to continue learning and growing in this ever-changing industry. This is my first paid job, and I am very proud to have reached this point. I am always looking for new challenges and opportunities to expand my knowledge and skills as a developer. I hope to continue making a difference in the world of technology and create solutions that meet the needs of clients and users.
 
 If you are interested in learning more about me or my work, feel free to contact me!</p>
 </div>
 
 <div align="center">
-  <h1>Currenty Skills | Habilidades 📚</h1>
+  <h1>Currenty Skills 📚</h1>
 </div>
 
 <div align="center" style="display: inline_block">
@@ -35,7 +27,7 @@ If you are interested in learning more about me or my work, feel free to contact
 </div>
 
 <div align="center">
-  <h1> Familiar with this apps | Plataformas Familiares 🫂</h1>
+  <h1> Familiar with this apps 🫂</h1>
 </div>
 
 <div align="center" style="display: inline_block">
@@ -46,7 +38,7 @@ If you are interested in learning more about me or my work, feel free to contact
 </div>
 
 <div>
-  <h1 align="center">Certifications | Certificados 📜</h1>
+  <h1 align="center">Certifications 📜</h1>
   <div>
     <li>English <a href="https://www.efset.org/cert/doJJvF">Certificate</a> - C1 Advanced - EF SET</li>
     <li><a href="https://drive.google.com/file/u/1/d/1XHFaDgu2Fahx3tl7L2GXDyN4iHsep7mt/view">Certificado </a>do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</li>
@@ -55,7 +47,7 @@ If you are interested in learning more about me or my work, feel free to contact
 </div><br> 
 
 <div align="center">
-  <h1>Github Stats | Estatísticas no Github 📈</h1>
+  <h1>Github Stats 📈</h1>
   
 <div align="center"> <!-- Imagens -->
   <a href="https://github.com/pecraveiro">
