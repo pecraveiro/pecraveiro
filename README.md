@@ -1,61 +1,24 @@
-<div>
-  <h1 align="center">About me 👋</h1>
-  <p align="justify">Olá, I'm Pedro, welcome to my Github profile. Campo-grandense (:brazil:), 21 years old, student of the third period of Computer Engineering at UCDB. Passionate about computing, especially development for websites and designs, with great interest in Front-end development. I show dedication and commitment to all tasks and functions assigned to me, always looking for improvement and daily learning in this future profession which I identify myself more and more.</p>
+# 💫 About Me:
+About Me: <br>- Pedro, 22 years old, Campo-grandense (🇧🇷)<br>- Computer Engineering student (4rd period) at UCDB<br><br>Passionate About:<br>- Computing, especially Front-end development<br>- Website development and design<br><br>Professional Experience:<br>- Intern in the Market area at EJEC (Junior Enterprise of Computer Engineering, UCDB)<br>- Managed the sector, developed web system projects, and created designs for social media<br>- Engaged in direct client interaction and conducted meetings<br>- Coordinated market sector meetings and participated in weekly general meetings<br><br>Development Journey:<br>- Started as a freelancer, working on small projects for friends and family<br>- Transitioned to a Trainee role in a Web Development company<br>- Worked collaboratively on various projects, creating Landing Pages, White Pages, Advertorials, and VSL Pages<br>- Acquired skills in HTML, CSS, JavaScript, and Nicepage platform for website creation<br>- Specialized in UX/UI design and website optimization for search engines<br>- Promoted to Junior Developer due to dedication and hard work<br><br>Career Highlights:<br>- Successfully navigated transition from volunteer and freelancer to Junior Developer<br>- First paid job in the web development industry<br>- Proud of achievements and eager to continue learning and growing<br><br>Future Goals:<br>- Excited about taking on new challenges and opportunities<br>- Committed to expanding knowledge and skills as a developer<br>- Aspiring to make a positive impact in the technology world and create solutions that meet client and user needs<br><br>Feel free to contact me for more information or collaboration opportunities.
 
-<p align="justify">I worked in a Junior Enterprise of Computer Engineering at my University, called <a href="https://ejec.ufsc.br/">"EJEC"</a>, where I am intern in the Market area managing the sector and performing tasks such as: development of projects in web systems, designs for posts on the company's social networks and direct contact with the client, holding meetings. In addition to participating weekly in general meetings with all sectors of the company and coordinating the market sector meeting.</p>
-  
-<p align="justify">As I mentioned, my journey as a developer began recently. After working as a volunteer for a Junior Company, I started working as a freelancer, working on small projects for friends and family. However, I quickly realized that I wanted to take it seriously and make it my career. That's when I landed my first job as a Trainee in a Web Development <a href="https://sixcomercio.com.br/">company</a>. During this period, I learned a lot about how to work in a team and collaborate with other developers to create useful and high-quality solutions for our clients. Since then, I have worked on <a href="https://github.com/pecraveiro/curriculum-at-SIX-LTDA">various projects</a>, creating Landing Pages, White Pages, Advertorials, and VSL Pages. I learned to work with different programming languages such as HTML, CSS, and JavaScript, and to use the Nicepage platform for website creation. Additionally, I have also honed my skills in UX/UI design and website optimization for search engines. Thanks to my hard work and dedication, I was promoted to Junior Developer in a short amount of time. I am excited to continue learning and growing in this ever-changing industry. This is my first paid job, and I am very proud to have reached this point. I am always looking for new challenges and opportunities to expand my knowledge and skills as a developer. I hope to continue making a difference in the world of technology and create solutions that meet the needs of clients and users.
 
-If you are interested in learning more about me or my work, feel free to contact me!</p>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_pecrav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pecraveiro) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dev_pecrav) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dev_pecrav) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev_pecrav) 
 
-<div align="center">
-  <h1>Currenty Skills 📚</h1>
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pecraveiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pecraveiro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pecraveiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="C++" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Solidity" height="30" width="40" <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"/>
-  <img align="center" alt="Canva" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-  <img align="center" alt="Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" alt="Nuvem Shop" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/157820634-5e78ccc3-2fab-4941-bb62-bfa343e23521.svg"/>
-  <img align="center" alt="Agius Cloud" height="60" width="60" <img src="https://agius.cloud/wp-content/uploads/2018/02/logo_agiuscloud.svg"/>
-  <img align="center" alt="Nicepage" height="40" width="70" <img src="https://user-images.githubusercontent.com/79882049/220238590-5da377fa-3d05-44a1-b7f1-99c121a7c094.png"/>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pecraveiro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <h1> Familiar with this apps 🫂</h1>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=pecraveiro&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Discord" height="30" width="30" <img src="https://user-images.githubusercontent.com/79882049/166131713-03e190f0-2d2d-4111-8f4e-f5f8f99fc07e.svg"/>
-  <img align="center" alt="Slack" height="80" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
-  <img align="center" alt="Trello" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
-  <img align="center" alt="Pipefy" height="50" width="50" <img src="https://user-images.githubusercontent.com/79882049/166131867-151e8407-a626-4900-a5ea-2f020e9a3a36.svg"/>
-  <img align="center" alt="Monday" height="70" width="60" <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Monday_logo.svg"/>
-</div>
-
-<div>
-  <h1 align="center">Certifications 📜</h1>
-  <div>
-    <li>English <a href="https://www.efset.org/cert/doJJvF">Certificate</a> - C1 Advanced - EF SET</li>
-    <li><a href="https://drive.google.com/file/u/1/d/1XHFaDgu2Fahx3tl7L2GXDyN4iHsep7mt/view">Certificado </a>do Curso de Preparação para o Mercado de Trabalho - Instituto Coca-Cola</li>
-    <li><a href="https://hermes.digitalinnovation.one/certificates/DAB87E89.pdf">Certificado</a> do Curso de Lei Geral de Proteção de Dados | Primeiras Noções - Digital Innovation One</li>
-  </div>
-</div><br> 
-
-<div align="center">
-  <h1>Github Stats 📈</h1>
-  
-<div align="center"> <!-- Imagens -->
-  <a href="https://github.com/pecraveiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pecraveiro&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pecraveiro&layout=compact&langs_count=7&theme=graywhite"/>
-  </div>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
   <h1> Commits Snake Animation | Cobrinha e commits 🐍</h1></div>
