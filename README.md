@@ -41,7 +41,7 @@
 #### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pecraveiro&theme=dark&hide_border=false)
 
-Real Experience
+#### Real Experience
 - C and C++: Developed academic projects focusing on programming paradigms, algorithms, OOP, and data structures.
 - Python: Created robust projects, applying graph theory for route calculation and developing bots for Telegram.
 - JS and React: Utilized daily in the development of VSL pages, advertorials, and product pages.
