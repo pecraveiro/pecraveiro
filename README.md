@@ -38,8 +38,10 @@
 #### Hardware Platforms:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<!--
 #### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pecraveiro&theme=dark&hide_border=false)
+-->
 
 #### Real Experience
 - C and C++: Developed academic projects focusing on programming paradigms, algorithms, OOP, and data structures.
