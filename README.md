@@ -38,7 +38,7 @@
 #### Hardware Platforms:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-GitHub Stats:
+#### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pecraveiro&theme=dark&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=pecraveiro&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
