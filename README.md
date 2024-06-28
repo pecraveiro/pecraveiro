@@ -41,4 +41,18 @@
 #### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pecraveiro&theme=dark&hide_border=false)
 
+Com C e C++, desenvolvi projetos acadêmicos focados em paradigmas de programação, algoritmos, POO e Estruturas de Dados.
+
+Utilizei Python para criar projetos robustos, aplicando teoria dos grafos para cálculo de rotas e desenvolvendo bots no Telegram.
+
+Diariamente, uso JavaScript e frameworks como React para desenvolver páginas VSL, advertoriais e páginas de produtos.
+
+Para estilizar sites, utilizo TailwindCSS e Bootstrap, criando designs modernos e responsivos.
+
+Atualmente, estudo Postgres para gerenciamento de banco de dados.
+
+Emprego ferramentas como DigitalOcean, Cloudflare, GitHub Pages e Vercel para deploy e hosting de servidores e projetos.
+
+Gerencio projetos na empresa utilizando Monday.
+
 [![](https://visitcount.itsvg.in/api?id=pecraveiro&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
